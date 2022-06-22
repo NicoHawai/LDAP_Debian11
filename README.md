@@ -30,7 +30,7 @@ As an introduction, I would recommend to read [this](https://www.openldap.org/do
 
 ## SLAPD installation
 
-First of all, let's install SLAPD ([Standalone LDAP Daemon](https://en.wikipedia.org/wiki/Slapd))
+First of all, let's install SLAPD (stands for [Standalone LDAP Daemon](https://en.wikipedia.org/wiki/Slapd))
 
     sudo apt update
     sudo apt upgrade
